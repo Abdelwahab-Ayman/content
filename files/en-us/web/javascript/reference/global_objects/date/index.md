@@ -1,3 +1,4 @@
+
 ---
 title: Date
 slug: Web/JavaScript/Reference/Global_Objects/Date
